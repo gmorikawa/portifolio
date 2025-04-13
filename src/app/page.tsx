@@ -14,7 +14,7 @@ export default function Home() {
                     <main>
                         <p>
                             Software Developer with focus in developing scalable web application.
-                            I have a Associate's Degree on Game Development at Fatec de Lins - Prof. Antonio Seabra.
+                            I have a Associate&apos;s Degree on Game Development at Fatec de Lins - Prof. Antonio Seabra.
                         </p>
                     </main>
                 </section>
