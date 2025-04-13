@@ -22,7 +22,7 @@ export default function Contact() {
                         </li>
 
                         <li className="list-item">
-                            <Image src="https://cdn.simpleicons.org/github/181717" width={13} height={13} alt="github icon" />
+                            <Image unoptimized src="https://cdn.simpleicons.org/github/181717" width={13} height={13} alt="github icon" />
                             <p>github.com/gmorikawa</p>
                         </li>
                     </ul>
