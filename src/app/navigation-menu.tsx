@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export interface NavigationMenuProps extends React.ComponentProps<"nav"> { }
+export type NavigationMenuProps = React.ComponentProps<"nav">;
 
 export function NavigationMenu(props: NavigationMenuProps) {
     return (

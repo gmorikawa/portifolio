@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
     return (
         <main id="content">
@@ -14,7 +12,7 @@ export default function Home() {
                     </p>
 
                     <p className="mb-4">
-                        I am a software engineer very passionate about coding and technology. Professionaly, I have mainly experience in full-stack web development, but I also have experience in game and mobile development. During my journey I'd used many programming languages, databases, frameworks, tools, all just out of curiosity.
+                        I am a software engineer very passionate about coding and technology. Professionaly, I have mainly experience in full-stack web development, but I also have experience in game and mobile development. During my journey I&lsquo;d used many programming languages, databases, frameworks, tools, all just out of curiosity.
                     </p>
 
                     <p className="mb-4">
